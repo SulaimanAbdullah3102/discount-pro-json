@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "cat1",
+    "category": "Electronics"
+  },
+  {
+    "_id": "cat2",
+    "category": "Clothing"
+  },
+  {
+    "_id": "cat3",
+    "category": "Home & Living"
+  },
+  {
+    "_id": "cat4",
+    "category": "Sportswear"
+  },
+  {
+    "_id": "cat5",
+    "category": "Food & Beverages"
+  }
+]
