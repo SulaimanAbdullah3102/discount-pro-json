@@ -1,0 +1,1071 @@
+[
+  {
+    "_id": "001",
+    "brand_name": "Brand1",
+    "rating": 3.5,
+    "description": "Description for Brand1, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE1",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-01-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA1",
+        "description": "Extra savings for electronics items.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand1",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "002",
+    "brand_name": "Brand2",
+    "rating": 3.6,
+    "description": "Description for Brand2, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE2",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-02-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand2",
+    "category": "Clothing",
+    "isSaleOn": false
+  },
+  {
+    "_id": "003",
+    "brand_name": "Brand3",
+    "rating": 3.7,
+    "description": "Description for Brand3, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE3",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-03-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand3",
+    "category": "Home & Living",
+    "isSaleOn": true
+  },
+  {
+    "_id": "004",
+    "brand_name": "Brand4",
+    "rating": 3.8,
+    "description": "Description for Brand4, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE4",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-04-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA4",
+        "description": "Extra savings for sportswear items.",
+        "expiry_date": "2025-04-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand4",
+    "category": "Sportswear",
+    "isSaleOn": false
+  },
+  {
+    "_id": "005",
+    "brand_name": "Brand5",
+    "rating": 3.9,
+    "description": "Description for Brand5, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE5",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-05-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand5",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "006",
+    "brand_name": "Brand6",
+    "rating": 4.0,
+    "description": "Description for Brand6, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE6",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-06-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand6",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "007",
+    "brand_name": "Brand7",
+    "rating": 4.1,
+    "description": "Description for Brand7, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE7",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-07-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA7",
+        "description": "Extra savings for clothing items.",
+        "expiry_date": "2025-07-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand7",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "008",
+    "brand_name": "Brand8",
+    "rating": 4.2,
+    "description": "Description for Brand8, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE8",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-08-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand8",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "009",
+    "brand_name": "Brand9",
+    "rating": 4.3,
+    "description": "Description for Brand9, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE9",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-09-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand9",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "010",
+    "brand_name": "Brand10",
+    "rating": 4.4,
+    "description": "Description for Brand10, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE10",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-10-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA10",
+        "description": "Extra savings for food & beverages items.",
+        "expiry_date": "2025-10-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand10",
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  },
+  {
+    "_id": "011",
+    "brand_name": "Brand11",
+    "rating": 4.5,
+    "description": "Description for Brand11, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE11",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-11-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand11",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "012",
+    "brand_name": "Brand12",
+    "rating": 4.6,
+    "description": "Description for Brand12, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE12",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-12-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand12",
+    "category": "Clothing",
+    "isSaleOn": false
+  },
+  {
+    "_id": "013",
+    "brand_name": "Brand13",
+    "rating": 4.7,
+    "description": "Description for Brand13, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE13",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-01-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA13",
+        "description": "Extra savings for home & living items.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand13",
+    "category": "Home & Living",
+    "isSaleOn": true
+  },
+  {
+    "_id": "014",
+    "brand_name": "Brand14",
+    "rating": 4.8,
+    "description": "Description for Brand14, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE14",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-02-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand14",
+    "category": "Sportswear",
+    "isSaleOn": false
+  },
+  {
+    "_id": "015",
+    "brand_name": "Brand15",
+    "rating": 4.9,
+    "description": "Description for Brand15, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE15",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-03-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand15",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "016",
+    "brand_name": "Brand16",
+    "rating": 3.5,
+    "description": "Description for Brand16, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE16",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-04-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA16",
+        "description": "Extra savings for electronics items.",
+        "expiry_date": "2025-04-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand16",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "017",
+    "brand_name": "Brand17",
+    "rating": 3.6,
+    "description": "Description for Brand17, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE17",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-05-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand17",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "018",
+    "brand_name": "Brand18",
+    "rating": 3.7,
+    "description": "Description for Brand18, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE18",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-06-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand18",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "019",
+    "brand_name": "Brand19",
+    "rating": 3.8,
+    "description": "Description for Brand19, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE19",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-07-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA19",
+        "description": "Extra savings for sportswear items.",
+        "expiry_date": "2025-07-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand19",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "020",
+    "brand_name": "Brand20",
+    "rating": 3.9,
+    "description": "Description for Brand20, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE20",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-08-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand20",
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  },
+  {
+    "_id": "021",
+    "brand_name": "Brand21",
+    "rating": 4.0,
+    "description": "Description for Brand21, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE21",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-09-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand21",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "022",
+    "brand_name": "Brand22",
+    "rating": 4.1,
+    "description": "Description for Brand22, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE22",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-10-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA22",
+        "description": "Extra savings for clothing items.",
+        "expiry_date": "2025-10-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand22",
+    "category": "Clothing",
+    "isSaleOn": false
+  },
+  {
+    "_id": "023",
+    "brand_name": "Brand23",
+    "rating": 4.2,
+    "description": "Description for Brand23, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE23",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-11-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand23",
+    "category": "Home & Living",
+    "isSaleOn": true
+  },
+  {
+    "_id": "024",
+    "brand_name": "Brand24",
+    "rating": 4.3,
+    "description": "Description for Brand24, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE24",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-12-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand24",
+    "category": "Sportswear",
+    "isSaleOn": false
+  },
+  {
+    "_id": "025",
+    "brand_name": "Brand25",
+    "rating": 4.4,
+    "description": "Description for Brand25, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE25",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-01-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA25",
+        "description": "Extra savings for food & beverages items.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand25",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "026",
+    "brand_name": "Brand26",
+    "rating": 4.5,
+    "description": "Description for Brand26, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE26",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-02-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand26",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "027",
+    "brand_name": "Brand27",
+    "rating": 4.6,
+    "description": "Description for Brand27, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE27",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-03-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand27",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "028",
+    "brand_name": "Brand28",
+    "rating": 4.7,
+    "description": "Description for Brand28, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE28",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-04-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA28",
+        "description": "Extra savings for home & living items.",
+        "expiry_date": "2025-04-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand28",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "029",
+    "brand_name": "Brand29",
+    "rating": 4.8,
+    "description": "Description for Brand29, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE29",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-05-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand29",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "030",
+    "brand_name": "Brand30",
+    "rating": 4.9,
+    "description": "Description for Brand30, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE30",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-06-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand30",
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  },
+  {
+    "_id": "031",
+    "brand_name": "Brand31",
+    "rating": 3.5,
+    "description": "Description for Brand31, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE31",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-07-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA31",
+        "description": "Extra savings for electronics items.",
+        "expiry_date": "2025-07-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand31",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "032",
+    "brand_name": "Brand32",
+    "rating": 3.6,
+    "description": "Description for Brand32, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE32",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-08-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand32",
+    "category": "Clothing",
+    "isSaleOn": false
+  },
+  {
+    "_id": "033",
+    "brand_name": "Brand33",
+    "rating": 3.7,
+    "description": "Description for Brand33, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE33",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-09-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand33",
+    "category": "Home & Living",
+    "isSaleOn": true
+  },
+  {
+    "_id": "034",
+    "brand_name": "Brand34",
+    "rating": 3.8,
+    "description": "Description for Brand34, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE34",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-10-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA34",
+        "description": "Extra savings for sportswear items.",
+        "expiry_date": "2025-10-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand34",
+    "category": "Sportswear",
+    "isSaleOn": false
+  },
+  {
+    "_id": "035",
+    "brand_name": "Brand35",
+    "rating": 3.9,
+    "description": "Description for Brand35, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE35",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-11-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand35",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "036",
+    "brand_name": "Brand36",
+    "rating": 4.0,
+    "description": "Description for Brand36, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE36",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-12-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand36",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "037",
+    "brand_name": "Brand37",
+    "rating": 4.1,
+    "description": "Description for Brand37, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE37",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-01-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA37",
+        "description": "Extra savings for clothing items.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand37",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "038",
+    "brand_name": "Brand38",
+    "rating": 4.2,
+    "description": "Description for Brand38, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE38",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-02-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand38",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "039",
+    "brand_name": "Brand39",
+    "rating": 4.3,
+    "description": "Description for Brand39, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE39",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-03-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand39",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "040",
+    "brand_name": "Brand40",
+    "rating": 4.4,
+    "description": "Description for Brand40, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE40",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-04-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA40",
+        "description": "Extra savings for food & beverages items.",
+        "expiry_date": "2025-04-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand40",
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  },
+  {
+    "_id": "041",
+    "brand_name": "Brand41",
+    "rating": 4.5,
+    "description": "Description for Brand41, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE41",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-05-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand41",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "042",
+    "brand_name": "Brand42",
+    "rating": 4.6,
+    "description": "Description for Brand42, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE42",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-06-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand42",
+    "category": "Clothing",
+    "isSaleOn": false
+  },
+  {
+    "_id": "043",
+    "brand_name": "Brand43",
+    "rating": 4.7,
+    "description": "Description for Brand43, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE43",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-07-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA43",
+        "description": "Extra savings for home & living items.",
+        "expiry_date": "2025-07-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand43",
+    "category": "Home & Living",
+    "isSaleOn": true
+  },
+  {
+    "_id": "044",
+    "brand_name": "Brand44",
+    "rating": 4.8,
+    "description": "Description for Brand44, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE44",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-08-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand44",
+    "category": "Sportswear",
+    "isSaleOn": false
+  },
+  {
+    "_id": "045",
+    "brand_name": "Brand45",
+    "rating": 4.9,
+    "description": "Description for Brand45, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE45",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-09-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand45",
+    "category": "Food & Beverages",
+    "isSaleOn": true
+  },
+  {
+    "_id": "046",
+    "brand_name": "Brand46",
+    "rating": 3.5,
+    "description": "Description for Brand46, category: Electronics.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE46",
+        "description": "Special discount on electronics products.",
+        "expiry_date": "2024-10-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA46",
+        "description": "Extra savings for electronics items.",
+        "expiry_date": "2025-10-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand46",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "047",
+    "brand_name": "Brand47",
+    "rating": 3.6,
+    "description": "Description for Brand47, category: Clothing.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE47",
+        "description": "Special discount on clothing products.",
+        "expiry_date": "2024-11-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand47",
+    "category": "Clothing",
+    "isSaleOn": true
+  },
+  {
+    "_id": "048",
+    "brand_name": "Brand48",
+    "rating": 3.7,
+    "description": "Description for Brand48, category: Home & Living.",
+    "brand_logo": "https://i.ibb.co.com/7ynPJh8/logo3.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CODE48",
+        "description": "Special discount on home & living products.",
+        "expiry_date": "2024-12-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand48",
+    "category": "Home & Living",
+    "isSaleOn": false
+  },
+  {
+    "_id": "049",
+    "brand_name": "Brand49",
+    "rating": 3.8,
+    "description": "Description for Brand49, category: Sportswear.",
+    "brand_logo": "https://i.ibb.co.com/dDHgcrq/logo1.png",
+    "coupons": [
+      {
+        "coupon_code": "CODE49",
+        "description": "Special discount on sportswear products.",
+        "expiry_date": "2024-01-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EXTRA49",
+        "description": "Extra savings for sportswear items.",
+        "expiry_date": "2025-01-15",
+        "condition": "Applicable on orders above $100.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop_link": "https://example.com/brand49",
+    "category": "Sportswear",
+    "isSaleOn": true
+  },
+  {
+    "_id": "050",
+    "brand_name": "Brand50",
+    "rating": 3.9,
+    "description": "Description for Brand50, category: Food & Beverages.",
+    "brand_logo": "https://i.ibb.co.com/9g1fLfY/logo2.webp",
+    "coupons": [
+      {
+        "coupon_code": "CODE50",
+        "description": "Special discount on food & beverages products.",
+        "expiry_date": "2024-02-28",
+        "condition": "Minimum purchase of $50 required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://example.com/brand50",
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  }
+]
